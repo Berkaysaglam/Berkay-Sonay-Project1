@@ -1,0 +1,3 @@
+This part contaions question 2.3. There are three graphs for three capacitor value. For simulation I found 350nF suitable for %20 ripple in output voltage.
+Then by researhing over the internet, I found 330nF and 470nF capacitors in the market. After tring both of them, I found 470nF suitable 
+which has approximately %16 ripple.
